@@ -5,18 +5,50 @@
 **Data Scientist & Machine Learning Engineer**  
 *Building robust predictive models, scalable ML pipelines, and production-ready enterprise AI solutions.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nandini_Kalita-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nandinikalita/)
-[![GitHub](https://img.shields.io/badge/GitHub-nandinikalita-lightgrey?style=flat&logo=github)](https://github.com/nandinikalita)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandinikalita/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandinikalita)
 
 </div>
 
 ---
 
 ### 🚀 About Me
-* 💼 **Professional Experience:** 9+ years of expertise in applied machine learning, deep learning, statistical modeling, and advanced analytics across financial services, retail, and telecom sectors.
+* 💼 **Professional Experience:** 9+ years of expertise applying machine learning, deep learning, statistical modeling, and advanced analytics across financial services, retail, and telecom sectors.
 * 🛠️ **Core Specializations:** Predictive Modeling, Natural Language Processing (NLP), Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and MLOps.
-* 🐳 **Engineering & MLOps Stack:** Python, PyTorch, TensorFlow, SQL, PySpark, Docker, Bitbucket, TeamCity, uDeploy, and Power BI.
 * 🌱 **Current Focus:** Developing RAG architectures and building advanced AI agent workflows.
+
+---
+
+### 🧰 Technical Skillset
+
+<div align="center">
+
+#### 💻 Languages & Core Data Processing
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+
+#### 🤖 ML, Deep Learning & GenAI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🐳 MLOps, DevOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white)
+![uDeploy](https://img.shields.io/badge/uDeploy-006699?style=for-the-badge&logo=ibm&logoColor=white)
+
+#### 📊 Analytics & Business Intelligence
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-4682B4?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+
+</div>
 
 ---
 
@@ -35,17 +67,6 @@
 
 ---
 
-### 🧰 Technical Skillset
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages & Core** | Python, SQL, PySpark, Hadoop |
-| **ML & Deep Learning** | PyTorch, TensorFlow, Scikit-Learn, LightGBM, Hugging Face, LLMs, RAG |
-| **MLOps & Deployment** | Docker, TeamCity, uDeploy, Bitbucket, CI/CD Pipelines |
-| **Data & BI** | Power BI, Advanced Analytics, ETL Pipelines |
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -56,4 +77,9 @@
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [Nandini Kalita](https://www.linkedin.com/in/nandinikalita/)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nandini_Kalita-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandinikalita/)
+[![GitHub](https://img.shields.io/badge/GitHub-nandinikalita-100000?style=for-the-badge&logo=github)](https://github.com/nandinikalita)
+
+</div>
