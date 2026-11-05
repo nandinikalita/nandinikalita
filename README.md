@@ -70,7 +70,5 @@
 ### 📈 Contributions & Activity
 
 <div align="center">
-
-![Nandini's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nandinikalita&theme=tokyonight&hide_border=true)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandinikalita&theme=tokyonight" alt="GitHub Profile Details" />
 </div>
