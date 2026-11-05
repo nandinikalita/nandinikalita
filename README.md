@@ -70,16 +70,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandinikalita&show_icons=true&theme=radical" alt="Nandini's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinikalita&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=nandinikalita&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nandini's GitHub Stats" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinikalita&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
 
-### 📫 Connect with Me
-<div align="center">
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nandini_Kalita-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandinikalita/)
-[![GitHub](https://img.shields.io/badge/GitHub-nandinikalita-100000?style=for-the-badge&logo=github)](https://github.com/nandinikalita)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nandinikalita&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
