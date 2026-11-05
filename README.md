@@ -70,5 +70,7 @@
 ### 📈 Contributions & Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandinikalita&theme=tokyonight" alt="GitHub Profile Details" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nandinikalita&theme=tokyonight&hide_border=true&date_format=j%20M%20Y" alt="GitHub Streak Stats" />
+
 </div>
