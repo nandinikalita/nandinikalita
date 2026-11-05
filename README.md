@@ -67,15 +67,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Contributions & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nandinikalita&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nandini's GitHub Stats" height="175" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinikalita&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nandinikalita&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![Nandini's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nandinikalita&theme=tokyonight&hide_border=true)
 
 </div>
