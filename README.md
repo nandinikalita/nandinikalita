@@ -65,12 +65,3 @@
   * Engineered a natural language processing project focused on dialogue summarization by fine-tuning open-source **FLAN-T5** large language models.
   * Incorporated parameter-efficient fine-tuning techniques, custom prompt engineering templates, and **ROUGE evaluation metrics**.
 
----
-
-### 📈 Contributions & Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nandinikalita&theme=tokyonight&hide_border=true&date_format=j%20M%20Y" alt="GitHub Streak Stats" />
-
-</div>
