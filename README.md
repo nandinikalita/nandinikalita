@@ -15,8 +15,8 @@
 ---
 
 ### 🚀 About Me
-💼 **Professional Experience:** 9+ years of expertise applying machine learning, deep learning, statistical modeling, and advanced analytics across financial services, retail, and telecom sectors.
-🛠️ **Core Specializations:** Predictive Modeling, Natural Language Processing (NLP), Anomaly Detection, Business Intelligence, Computer Vision, Large Language Models (LLMs), and MLOps.
+💼 **Professional Experience:** 9+ years of expertise applying machine learning, deep learning, statistical modeling, and advanced analytics across financial services, retail, and telecom sectors.<br>
+🛠️ **Core Specializations:** Predictive Modeling, Natural Language Processing (NLP), Anomaly Detection, Business Intelligence, Computer Vision, Large Language Models (LLMs), and MLOps.<br>
 🌱 **Current Focus:** Building robust predictive models, scalable ML pipelines, and production-ready enterprise AI solutions.
 
 ---
