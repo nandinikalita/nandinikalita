@@ -1,14 +1,14 @@
-\# Hi there, I'm Nandini Kalita 👋
-
 <div align="center">
- 
+
+# Hi there, I'm Nandini Kalita 👋
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Data+Scientist;Machine+Learning+Engineer;BI+Engineer;Open+to+Full-time+Opportunities" alt="Typing SVG" />
 </p>
 <br/>
 
-<a href="https://www.linkedin.com/in/nandinikalita/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/nandinikalita" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/nandinikalita/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/nandinikalita"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
@@ -98,7 +98,7 @@
 <div align="center">
 
 ⭐ **Open to Full-Time Opportunities**  
-*Open to full-time opportunities and professional networking on <a href="https://www.linkedin.com/in/nandinikalita/" target="_blank">LinkedIn</a>*
+*Open to full-time opportunities and professional networking on <a href="https://www.linkedin.com/in/nandinikalita/">LinkedIn</a>*
 
 <br/>
 
