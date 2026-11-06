@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Data+Scientist;Machine+Learning+Engineer;BI+Engineer;AI+%7C+LLMs+%7C+Computer+Vision;Open+to+Full-time+Opportunities" alt="Typing SVG" />
 </p>
+
 *Building robust predictive models, scalable ML pipelines, and production-ready enterprise AI solutions.*
 
 <br/>
